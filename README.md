@@ -8,7 +8,7 @@ Original codebase was [Start Bootstrap Landing Page](https://startbootstrap.com/
 
 ## Stack
 
-- [Nextjs (Reactjs)](https://nextjs.org)
+- [Nextjs](https://nextjs.org)
 - [React Bootstrap](https://react-bootstrap.netlify.app)
 
 ## Develop
