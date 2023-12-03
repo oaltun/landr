@@ -1,8 +1,8 @@
-# Static Landing Page Starter
+# Landr Nextjs Static Landing Page Starter
 
 The code in this repository can be used as a starter / example for your landing page.
 
-Original codebase was [Start Bootstrap Landing Page](https://startbootstrap.com/theme/landing-page). I converted that to a Nextjs / React Bootstrap and used for a project of mine.
+Original codebase was [Start Bootstrap Landing Page](https://startbootstrap.com/theme/landing-page).
 
 ## Stack
 
