@@ -1,6 +1,8 @@
 # Landr
 
-A Nextjs / React Bootstrap static landing page starter based on Start Bootstrap Landing Page.
+A Responsive Nextjs / React Bootstrap static landing page starter based on Start Bootstrap Landing Page.
+
+![Landing page image](public/assets/img/landing.png)
 
 Original codebase was [Start Bootstrap Landing Page](https://startbootstrap.com/theme/landing-page).
 
